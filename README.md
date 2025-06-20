@@ -44,9 +44,9 @@ An innovative programming language for Android that combines **Python's** simpli
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luistecnologico&show_icons=true&theme=minimal&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666&icon_color=007acc)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luistecnologico&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luistecnologico&layout=compact&theme=minimal&hide_border=true&bg_color=ffffff&title_color=333333&text_color=666666)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luistecnologico&layout=compact&theme=default&hide_border=true)
 
 ## 🛠️ Tech Stack
 
